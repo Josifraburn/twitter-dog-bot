@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "base64-stream": "^0.1.3",
+    "node-fetch": "^2.1.2",
+    "now": "^11.1.6",
+    "start": "^5.1.0",
+    "twit": "^2.2.9",
+    "twitter-node-client": "^0.0.6",
+    "micro": "latest"
+  },
+  "scripts": {
+    "start": "micro"
+  },
+  "name": "twitter-bot-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
