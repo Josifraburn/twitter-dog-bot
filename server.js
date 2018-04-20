@@ -1,4 +1,5 @@
 const http = require('http')
+require('./index.js')
 
 const PORT = 3000;
 
